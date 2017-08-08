@@ -1,0 +1,5 @@
+num_seq <- c(10:0)
+num_seq <- c(num_seq,1:10)
+print ( num_seq )
+M <- diag(num_seq)
+print ( M )
